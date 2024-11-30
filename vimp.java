@@ -4,7 +4,7 @@ class vimp{
         int result=++num;   // pre increment ---first increment and then fetch
         int result2=num++;  // post increment ---first fetch and then increment
 
-        System.out.println(result);
+        System.out.println(result1);
         System.out.println(result2);
     }
 }
